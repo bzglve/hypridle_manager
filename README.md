@@ -71,6 +71,10 @@ By default, Hypridle Manager looks for the configuration file in the following l
 - `$XDG_CONFIG_HOME/hypr/hypridle_manager.ron`
 - `~/.config/hypr/hypridle_manager.ron`
 
+### Tip
+
+If you maded some changes in hypridle config files, you can simply toggle power source to reload hypridle
+
 ### Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
