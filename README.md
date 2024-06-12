@@ -75,6 +75,11 @@ By default, Hypridle Manager looks for the configuration file in the following l
 
 If you maded some changes in hypridle config files, you can simply toggle power source to reload hypridle
 
+### TODO
+
+- [ ] Wait till [hypridle#67](https://github.com/hyprwm/hypridle/issues/67) will be completed
+- [ ] Sync listener states between process relaunch?
+
 ### Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
