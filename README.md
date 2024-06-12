@@ -73,7 +73,11 @@ By default, Hypridle Manager looks for the configuration file in the following l
 
 ### Tip
 
-If you maded some changes in hypridle config files, you can simply toggle power source to reload hypridle
+1. Add this to your `hyprland.conf` instead of `exec-once = hyprpaper`
+   ```conf
+   exec-once = hypridle_manager
+   ```
+2. If you maded some changes in hypridle config files, you can simply toggle power source to reload hypridle
 
 ### TODO
 
